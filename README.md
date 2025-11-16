@@ -1,3 +1,3 @@
 # MyTestProject
 
-Test project for learning purpse
+Test project for learning purpose
